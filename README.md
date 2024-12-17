@@ -25,6 +25,7 @@ input-leap
 sudo apt install qt6-qpa-plugins
 ```
 ![alt text](2b80141c4659b8d787b9e519fd133b8.png)
+
 勾选**Client**,此时**Server IP**填写Windows的ip
 >[!CAUTION]
 >注意Screen name和服务端的要对应
